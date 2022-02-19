@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Jonathan Ruiz",
+      "photo": "https://i.pinimg.com/originals/8b/16/7a/8b167af653c2399dd93b952a48740620.jpg",
+      "mobile": "46715162",
+      "email": "jonathanmruiz@yahoo.com",
+      "company": "Propia",
+      "title": "Frontend developer",
+      "id": 1
+    },
+    {
+      "name": "Dante",
+      "photo": "https://i.pinimg.com/originals/8b/16/7a/8b167af653c2399dd93b952a48740620.jpg",
+      "mobile": "1166409685",
+      "email": "jonathanmruiz@yahoo.com",
+      "company": "ASDSAD",
+      "title": "ASDAS",
+      "id": 2
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Familia"
+    },
+    {
+      "id": "2",
+      "name": "Amigo"
+    },
+    {
+      "id": "3",
+      "name": "Conocido"
+    }
+  ]
+}
